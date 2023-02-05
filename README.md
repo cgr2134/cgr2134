@@ -1,5 +1,4 @@
-### Wassup! My name is Carlos Raymundo (he/him/his)
-
+### Wassup! I'm Carlos Raymundo 
 <!--
 **cgr2134/cgr2134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-😃
+[![](https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cgrt.py/)
+
+:smile: Pronouns: he/him/his
+       
+:lion: Computer Science @ Columbia University C/O 2024
+
+:boom: Fun fact: I enjoy watching anime and Marvel movies. Interested in soccer, photography, and music.
+
+:computer: I’m currently learning about open source development.
