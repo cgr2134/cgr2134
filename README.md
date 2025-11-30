@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![](https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cgrt.py/)
-
 :smile: Pronouns: he/him/his
        
 :lion: Computer Science @ Columbia University C/O 2024
